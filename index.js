@@ -1,6 +1,6 @@
 // Code your solution in this file.
 function lowerCaseDrivers(list) {
-  list.map()
+  return list.map(function)
 }
 
 function nameToAttributes()
