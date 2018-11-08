@@ -12,4 +12,8 @@ function nameToAttributes(list) {
   }
   )}
   
-  
+  function attributesToPhrase(drivers) {
+    return drivers.map(function(driver) {
+    
+  )}
+  }
